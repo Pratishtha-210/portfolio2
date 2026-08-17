@@ -4,7 +4,7 @@ Welcome to my personal portfolio website repository!
 
 ## 🌐 Live Demo
 Check out the live website hosted on Vercel:
-**https://portfolio2-ten-teal-28.vercel.app/**
+**https://pratishtha210.vercel.app/**
 
 ## 💻 Tech Stack
 - **HTML5 & CSS3**
